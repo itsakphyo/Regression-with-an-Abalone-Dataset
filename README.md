@@ -1,3 +1,9 @@
-Model | #CNN | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Root Mean Squared Logarithmic Error | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Model | Root Mean Squared Logarithmic Error
+--- | ---
+SimpleNN | 0.14142972230911255
+CNN | 0.1488444060087204
+Random Forest Regresser | 0.15226448964975275
+XGBoost | 0.14945106954925463
+Ensemble Modeling | 0.1423392105341725
+Submission Score (Public) | 0.14930
+Submission Score (Private) | 0.14906
